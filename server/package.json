@@ -23,7 +23,7 @@
     "http-status": "^1.1.2",
     "pg": "^7.4.3",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^4.37.10",
+    "sequelize": "^5.15.1",
     "start": "^5.1.0",
     "winston": "^3.0.0-rc5"
   },
